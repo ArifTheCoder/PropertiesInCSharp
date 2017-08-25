@@ -1,0 +1,6 @@
+D:\project\visualStudioProject\properties\properties\bin\Debug\properties.exe.config
+D:\project\visualStudioProject\properties\properties\bin\Debug\properties.exe
+D:\project\visualStudioProject\properties\properties\bin\Debug\properties.pdb
+D:\project\visualStudioProject\properties\properties\obj\Debug\properties.csprojResolveAssemblyReference.cache
+D:\project\visualStudioProject\properties\properties\obj\Debug\properties.exe
+D:\project\visualStudioProject\properties\properties\obj\Debug\properties.pdb
